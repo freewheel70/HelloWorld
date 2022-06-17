@@ -1,4 +1,4 @@
 # What is your favorite color?
-[ ] Red
-[ ] Green
-[ ] Blue
+- [ ] Red
+- [ ] Green
+- [ ] Blue
