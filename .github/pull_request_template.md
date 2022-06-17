@@ -1,5 +1,4 @@
-# How are you doing?
-
-- [ ] Good
-- [ ] Great
-- [ ] Not Bad
+# What is your favorite color?
+[ ] Red
+[ ] Green
+[ ] Blue
